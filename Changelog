@@ -1,1 +1,7 @@
+VERSION 1.1
+- Added dropdown options for classification justification.
+- Changed "Comments" to "Notes".
+- Added "Notes" to some of the Value options to better explain what they are for and what the options mean.
 
+VERSION 1.0
+- Inital release
