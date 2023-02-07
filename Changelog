@@ -1,7 +1,15 @@
+VERSION 1.2
+- Changed "Classification Addendum" to "Classification Caveats"
+- Fixed Classification Age dropdown list
+- Removed Data validation on Employee Number fields
+- Fixed data validation issues
+- Added Error descriptors with Data validation.
+- Fixed alignment to better fit barcodes.
+
 VERSION 1.1
 - Added dropdown options for classification justification.
 - Changed "Comments" to "Notes".
 - Added "Notes" to some of the Value options to better explain what they are for and what the options mean.
 
 VERSION 1.0
-- Inital release
+- Initial release
