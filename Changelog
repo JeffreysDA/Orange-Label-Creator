@@ -1,3 +1,10 @@
+VERSION 1.4
+- Added ability to create three additional data storage labels per machine label.
+
+VERSION 1.3
+- Changed formatting.
+- Removed redundant sections.
+
 VERSION 1.2
 - Changed "Classification Addendum" to "Classification Caveats"
 - Fixed Classification Age dropdown list
