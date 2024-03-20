@@ -14,7 +14,8 @@ Microsoft Office 2013 and newer. *(Untested, but might work with older versions)
 
 
 ### Required Files
-The Orange Label Creator does not currently require any additional files to be functional.
+The Orange Label Creator might require the installation of the Barcode Font (includded in this repository) if barcodes are not shown after filling out the "Machine Designation #" cell.
+To install, simply download the Barcode Font zip file, extract the contents, double click the .ttf file, and select "Install".
 
 
 
